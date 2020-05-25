@@ -1,0 +1,7 @@
+load(
+    "@bazelruby_rules_ruby//ruby:defs.bzl",
+    "ruby_binary",
+    "ruby_library",
+    "ruby_test",
+    "ruby_rspec",
+)
